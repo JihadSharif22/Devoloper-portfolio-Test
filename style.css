@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+#Welcome-one{
+    font-size: 50px;
+    
+}
+#Welcome-two{
+
+font-size: 40px;
+
+}
+#img-one{
+    width: 80%;
+   
+}
+#Welcome-span-color{
+    color: orange;
+}
+#Welcome-section{
+    background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-bottom: 160px;
+}
+.Half-width{
+    width: 50%;
+ margin-left: 100px ;
+}
+#second-box{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    
+}
+#Hire-me-link{
+    text-decoration: none;
+    border-radius: 20px;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 50px 10px 50px;
+   
+}
+#Facebook-link{
+    text-decoration: none;
+    border-radius: 20px;
+    background-image: linear-gradient(90deg,blue, salmon );
+    padding: 10px 50px 10px 50px;
+}
+#Flexible-content{
+    display: flex;
+    background-image: url(Images/exp-bg.png);
+    z-index: 1;
+
+background-repeat: no-repeat;}
+.exp-box{
+    width: 40%;
+    margin:0% 5% 0% 5%;
+    padding: 0px 0px 0px 40px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px blueviolet ;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+#Exp-border-one{
+   border-left: 5px solid; 
+   border-image: linear-gradient(orange, yellow);
+   border-image-slice: 1;
+}
+#Exp-border-two{
+    border-left: 5px solid; 
+   border-image: linear-gradient(pink, red);
+   border-image-slice: 1;
+}
+#Copyright-reserve{
+    
+    text-align: center;
+    margin: 200px 0px 0px 0px;
+}
